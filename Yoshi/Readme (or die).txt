@@ -4,7 +4,7 @@ The Yoshi project is a command-line assistant that allows the user to browse the
 
 Installation:
 
-Clone the repository: git clone https://github.com/your-username/yoshi.git
+Clone the repository: git clone https://github.com/Akynovia/yoshi
 
 To install the necessary dependencies, run the install.sh file on Linux or the install.bat file on Windows. Make sure you are in the root directory of the project when running the installation file.
 
