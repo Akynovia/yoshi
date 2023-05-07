@@ -1,6 +1,6 @@
 # Yoshi - Assistente Virtual
 
-O [Projeto Yoshi](https://github.com/Akynovia/yoshi) é um assistente de linha de comando. Ele é escrito em 100% em Python e é compatível com Windows e Linux. Ele foi desenvolvido com o intuito de ser simples e intuitivo.
+O [Projeto Yoshi](https://github.com/Akynovia/yoshi) é um assistente de linha de comando que permite ao usuário navegar na internet e buscar informações na Wikipedia. Ele é escrito em Python e é compatível com Windows e Linux. Ele foi desenvolvido com o intuito de ser simples e intuitivo.
 
 ***
 
