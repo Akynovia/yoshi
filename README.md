@@ -24,6 +24,4 @@ Após a instalação, execute o arquivo main.py para iniciar o assistente. Em se
 - `sair` - encerra o assistente.
 ##
 
-***
-
 ### Em resumo, o projeto é uma aplicação Python que permite a navegação na web e a pesquisa na Wikipedia por meio de um assistente de linha de comando. Ele é composto por módulos Python específicos, arquivos de configuração e scripts de instalação.
