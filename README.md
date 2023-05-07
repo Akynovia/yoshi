@@ -11,4 +11,4 @@ wiki: permite ao usuário pesquisar a Wikipedia. Digite o comando wiki seguido d
 limpar: limpa a tela do console.
 ajuda: exibe a tela de ajuda.
 sair: encerra o assistente.
-Para mais informações, consulte o arquivo Leiame ou Readme (dependendo da sua preferência de nomeclatura) na raiz do projeto.
+Para mais informações, consulte o arquivo Leiame ou Readme na raiz do projeto.
