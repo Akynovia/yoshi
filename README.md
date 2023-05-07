@@ -20,21 +20,36 @@ sair: encerra o assistente.
 # Estrutura do projeto
 A estrutura do projeto é a seguinte:
 
-# yoshi/
-# ├── app/
-# │   ├── main.py
-# │   ├── lib/
-# │   │   ├── __init__.py
-# │   │   ├── help.py
-# │   │   ├── web.py
-# │   │   └── wikipedia.py
-# │   └── tests/
-# ├── config/
-# │   ├── install.bat
-# │   ├── install.sh
-# │   └── requirements.txt
-# ├── Leiame (ou morra)
-# └── Readme (or die)
+yoshi/
+
+├── app/
+
+│   ├── main.py
+
+│   ├── lib/
+
+│   │   ├── __init__.py
+
+│   │   ├── help.py
+
+│   │   ├── web.py
+
+│   │   └── wikipedia.py
+
+│   └── tests/
+
+├── config/
+
+│   ├── install.bat
+
+│   ├── install.sh
+
+│   └── requirements.txt
+
+├── Leiame (ou morra)
+
+└── Readme (or die)
+
 
 A pasta app contém o arquivo main.py, que é o arquivo principal do projeto, e duas subpastas:
 
