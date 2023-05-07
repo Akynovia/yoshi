@@ -1,0 +1,10 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados pela IDE
+.idea/
+.vscode/
+
+# Arquivos de log
+*.log
