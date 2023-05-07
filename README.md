@@ -17,11 +17,11 @@ Após a instalação, execute o arquivo main.py para iniciar o assistente. Em se
 
 ##### As seguintes opções estão disponíveis:
 
-- 'navegar' - permite ao usuário navegar na internet. Digite o comando navegar seguido da URL que deseja acessar.
-- 'wiki' - permite ao usuário pesquisar a Wikipedia. Digite o comando wiki seguido do tópico que deseja pesquisar.
-- 'limpar' - limpa a tela do console.
-- 'ajuda' - exibe a tela de ajuda.
-- 'sair' - encerra o assistente.
+- `navegar` - permite ao usuário navegar na internet. Digite o comando navegar seguido da URL que deseja acessar.
+- `wiki` - permite ao usuário pesquisar a Wikipedia. Digite o comando wiki seguido do tópico que deseja pesquisar.
+- `limpar` - limpa a tela do console.
+- `ajuda` - exibe a tela de ajuda.
+- `sair` - encerra o assistente.
 ##
 
 ***
